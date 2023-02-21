@@ -6,4 +6,4 @@ Dockerize App-Tier
 
 • Change hardcoded database config to environment variables
 
-• Add function to create table path /init\n
+• Add function to create table path /init
