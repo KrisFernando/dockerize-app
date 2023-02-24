@@ -20,7 +20,7 @@ app.get('/health',(req,res)=>{
     res.json("This is the health check");
 });
 
-//Health Checking
+//Create Transaction Table
 app.get('/init',(req,res)=>{
     var response = "";
     try{
